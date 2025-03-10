@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+re
+spacy
+gradio
+sentence-transformers
+faiss-cpu
+transformers
+torch
